@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Author
 
-**Name:** Irene
+**Name:** Irene Chineye Emeshili
 **Student ID:** x24139645
 **Course:** MSc Data Analytics
 **Module:** Data Mining and Machine Learning (H9DMML)
@@ -20,8 +20,8 @@
 
 ```
 x24139645_H9DMML_Portfolio/
-├── diabetes_project.ipynb       # UCI Diabetes Readmission Notebook
 ├── chunking_csv.ipynb           # Chunking CSV Notebook
+├── diabetes_project.ipynb       # UCI Diabetes Readmission Notebook
 ├── mimic_iv.ipynb               # MIMIC-IV Readmission Notebook
 ├── README.md                    # This file
 └── requirements.txt             # List of required packages
