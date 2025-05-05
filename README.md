@@ -21,7 +21,9 @@
 ```
 x24139645_H9DMML_Portfolio/
 ├── chunking_csv.ipynb           # Chunking CSV Notebook
+├── diabetes_data.csv            # UCI dataset
 ├── diabetes_project.ipynb       # UCI Diabetes Readmission Notebook
+├── mimic_iv_data.csv            # MIMIC-IV dataset (Unfortunately can not be shared)
 ├── mimic_iv.ipynb               # MIMIC-IV Readmission Notebook
 ├── README.md                    # This file
 └── requirements.txt             # List of required packages
